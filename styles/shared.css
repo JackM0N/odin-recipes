@@ -1,0 +1,16 @@
+ul{
+    display: inline-block;
+    list-style: none;
+    padding: 0;
+}
+ol{
+    list-style-position: inside;
+}
+body{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+a:visited{
+    color: white;
+}
